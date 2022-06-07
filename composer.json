@@ -1,5 +1,5 @@
 {
-    "name": "mateusjunges/laravel-kafka",
+    "name": "gajosu/laravel-kafka",
     "description": "A kafka driver for laravel",
     "type": "library",
     "require": {
